@@ -1,12 +1,10 @@
 """
 Christopher Kramer
-Algorithms for Data Science - Lab 4
-2020-1-26
 
 Functional implementation of divide-and-conquer algorithm for finding the shortest distance between list containing
 1-dimensional integers from the number line.
 
-Outside of StockProfit DAC lecture, additional inspiration from:
+additional inspiration from:
 https://sites.cs.ucsb.edu/~suri/cs235/ClosestPair.pdf
 """
 
